@@ -329,9 +329,6 @@
   }
   
   @media (max-width: 1068px) {
-    .home-img {
-      display: none;
-    }
   
     .logo {
       top: 10px;
