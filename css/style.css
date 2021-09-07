@@ -37,10 +37,6 @@
     margin-top: 60px;
   }
   
-  section.home {
-    flex-direction: row;
-    margin-top: 0;
-  }
   
   /* BUTTON */
   .btn {
@@ -160,10 +156,10 @@
   }
   
   .home-img {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    height: 110%;
+    max-width: 600px;
+    height: auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
   
   /* SERVICES PAGE */
